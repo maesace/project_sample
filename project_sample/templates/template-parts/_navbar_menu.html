@@ -1,0 +1,22 @@
+<header>
+{% if user.is_authenticated %}
+<nav>
+    <div class="nav-wrapper">
+    <a href="#!" class="brand-logo">Sample Site</a>
+    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    <ul class="right hide-on-med-and-down">
+        {% for menu_item in menu %}
+            <li><a href="{% url 'user-view' %}">{{ menu_item.0 }}</a></li>
+        {% endfor %}
+        <li><a href="{% url 'logout' %}">Logout</a></li>
+        </ul>
+    </div>
+</nav>
+<ul class="sidenav" id="mobile-demo">
+    {% for menu_item in menu %}
+        <li><a href="{% url 'user-view' %}">{{ menu_item.0 }}</a></li>
+    {% endfor %}
+    <li><a href="{% url 'logout' %}">Logout</a></li>
+</ul>
+{% endif %}
+</header>

@@ -1,0 +1,27 @@
+/**
+Sections: LOGIN PAGE, HEADER, HELPERS
+**/
+
+/* LOGIN PAGE */
+body.login-page {
+    min-height: 100vh;
+}
+
+body.login-page main,
+body.login-page #content,
+body.login-page .container {
+    height: 100%;
+}
+
+
+/* HEADER */
+nav {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* HELPERS */
+.margin-center {
+    margin: auto;
+}
