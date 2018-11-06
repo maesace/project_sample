@@ -142,7 +142,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-    str(os.path.join(APPS_DIR, 'web/static/')),
+    str(os.path.join(APPS_DIR, 'web/static')),
 )
 
 STATICFILES_FINDERS = (
@@ -152,8 +152,8 @@ STATICFILES_FINDERS = (
 
 MEDIA_URL = '/media/'
 
-MEDIA_ROOT = str(SHARED_DIR('shared/media/'))
-STATIC_ROOT = str(SHARED_DIR('shared/static/'))
+MEDIA_ROOT = str(SHARED_DIR('shared/media'))
+STATIC_ROOT = str(SHARED_DIR('shared/static'))
 
 # Custom User model
 AUTH_USER_MODEL = 'accounts.User'
