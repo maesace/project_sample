@@ -1,2 +1,4 @@
 Django==2.1.3
+django-environ==0.4.5
+django-materializecss-form==1.1.10
 pytz==2018.7
