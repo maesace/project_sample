@@ -39,28 +39,21 @@
 
         # Command
         source venv/bin/activate
-        pip install -r local.txt
-        
-6. Create a .env file which will contain your environment settings. Use env.example as reference.
+        pip install -r requirements.txt
 
-
-7. Migrate the database
+6. Migrate the database
 
         python manage.py migrate
 
-8. Create a superuser/admin
+7. Create a superuser/admin
 
         python manage.py createsuperuser
-        
-9. Load mock data
 
-        python manage.py loaddata project_sample/fixtures/mock_data.json
-
-10. Collect static files
+8. Collect static files
 
         python manage.py collectstatic --noinput -c
 
-11. Run the server
+9. Run the server
 
         # Command
         python manage.py runserver

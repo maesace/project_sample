@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58c61248-c41c-4a64-aa7e-538dc5d3c962" name="Default Changelist" comment="" />
+    <list default="true" id="58c61248-c41c-4a64-aa7e-538dc5d3c962" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,24 +18,26 @@
     <session id="-1413957057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="6" />
-          <entry key="env" value="2" />
+          <entry key="env" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="20" />
           <entry key="js" value="2" />
           <entry key="log" value="3" />
-          <entry key="md" value="6" />
-          <entry key="py" value="43" />
+          <entry key="md" value="8" />
+          <entry key="py" value="47" />
           <entry key="scss" value="16" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -40,9 +45,9 @@
           <entry key="CSS" value="6" />
           <entry key="HTML" value="20" />
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="6" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="43" />
+          <entry key="Markdown" value="8" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="47" />
           <entry key="SCSS" value="16" />
         </counts>
       </usages-collector>
@@ -54,8 +59,8 @@
           <entry key="gitignore" value="63" />
           <entry key="html" value="1249" />
           <entry key="js" value="54" />
-          <entry key="md" value="205" />
-          <entry key="py" value="1671" />
+          <entry key="md" value="231" />
+          <entry key="py" value="1813" />
           <entry key="scss" value="138" />
         </counts>
       </usages-collector>
@@ -64,21 +69,24 @@
           <entry key="CSS" value="288" />
           <entry key="HTML" value="1249" />
           <entry key="JavaScript" value="54" />
-          <entry key="Markdown" value="205" />
+          <entry key="Markdown" value="231" />
           <entry key="PLAIN_TEXT" value="78" />
-          <entry key="Python" value="1671" />
+          <entry key="Python" value="1813" />
           <entry key="SCSS" value="138" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="510">
+                <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -107,7 +115,15 @@
       <find>template_</find>
       <find>template</find>
       <find>thi</find>
+      <find>STATICFILES_DIRS</find>
+      <find>AppDirectoriesFinder</find>
+      <find>STATICFILES_STORAGE</find>
+      <find>static_root</find>
+      <find>print(</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,7 +148,6 @@
         <option value="$PROJECT_DIR$/project_sample/accounts/views.py" />
         <option value="$PROJECT_DIR$/project_sample/templates/template-parts/_navbar_menu.html" />
         <option value="$PROJECT_DIR$/project_sample/web/static/js/proj.js" />
-        <option value="$PROJECT_DIR$/project_sample/settings.py" />
         <option value="$PROJECT_DIR$/project_sample/urls.py" />
         <option value="$PROJECT_DIR$/project_sample/templates/base_index.html" />
         <option value="$PROJECT_DIR$/project_sample/web/static/sass/components/_variables.scss" />
@@ -141,8 +156,10 @@
         <option value="$PROJECT_DIR$/project_sample/web/static/sass/components/_color-helpers.scss" />
         <option value="$PROJECT_DIR$/project_sample/accounts/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/project_sample/web/static/css/styles.css" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/_os.py" />
+        <option value="$PROJECT_DIR$/project_sample/settings.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -152,12 +169,152 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="49" />
     <option name="y" value="25" />
     <option name="width" value="1391" />
     <option name="height" value="875" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -168,6 +325,11 @@
           <expand>
             <path>
               <item name="project_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project_sample" type="462c0819:PsiDirectoryNode" />
               <item name="project_sample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -246,16 +408,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="25" width="1317" height="743" extended-state="6" />
+    <frame x="49" y="25" width="1391" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29583004" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3033457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.83739835" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.83686787" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -263,7 +426,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.54228187" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -272,7 +435,7 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21243116" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29583004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -286,7 +449,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="1.0" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -304,13 +467,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="68" />
-        </state>
-      </provider>
     </entry>
     <entry file="file:///usr/lib/python3.6/logging/config.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -335,20 +491,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_sample/custom_views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project_sample/custom_views.py" />
     <entry file="file://$PROJECT_DIR$/project_sample/accounts/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -359,9 +506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_sample/web/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project_sample/web/templates/base.html" />
     <entry file="file://$PROJECT_DIR$/project_sample/accounts/templates/user.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -373,10 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-            <marker date="1541259354073" expanded="true" signature="175:178" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -394,23 +535,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_sample/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#315#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_sample/accounts/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,9 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding>
-            <element signature="e#638#670#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,20 +627,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.env" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/utils/_os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_sample/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/binary-extensions/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="510">
+            <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
